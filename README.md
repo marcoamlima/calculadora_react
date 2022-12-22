@@ -7,7 +7,7 @@ Tecnologias:
 
 Execução do projeto:
 - Extraí todos os zips em uma única pasta;
-- No terminal entre na pasta dio e execute o comando abaixo para executar o projeto:
+- No terminal entre na pasta projeto e execute o comando abaixo para executar:
 > npm start
 
 <br>
